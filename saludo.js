@@ -1,1 +1,1 @@
-alert("hora);
+alert("hola");
